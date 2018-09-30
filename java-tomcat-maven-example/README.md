@@ -1,4 +1,4 @@
-# java-tomcat-maven-example
+# java-tomcat-maven-example editing file on 29/09/2018
 
 This is an example ready-to-deploy java web application built for Tomcat using Maven and webapp-runner.
 
@@ -13,7 +13,7 @@ java -jar target/dependency/webapp-runner.jar target/*.war
 
 The application will be available on `http://localhost:8080`.
 
-## How This Was Built
+## How This Was Built edited on 300918
 
 1. Generate the project using a Maven archetype:
 
